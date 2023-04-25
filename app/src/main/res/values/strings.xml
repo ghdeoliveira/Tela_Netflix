@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Tela_Netflix</string>
+    <string name="serie_name">Mr. Robot</string>
+    <string name="serie_ep">S1E01</string>
 </resources>
